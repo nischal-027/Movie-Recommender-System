@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+
+# IDE
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# User-specific data
+watchlists.json
+
+# Duplicate model files in root
+/actor_list.pkl
+/director_list.pkl
+/movies.pkl
+/movie_dict.pkl
+/similarity.pkl
+
+# Authentication configuration
+/config.yaml
+hash_passwords.py

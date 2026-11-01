@@ -1,0 +1,11 @@
+credentials:
+  usernames:
+    demo_user:
+      email: demo@example.com
+      name: Demo User
+      password: "GENERATE_YOUR_OWN_BCRYPT_HASH"
+
+cookie:
+  name: cinematch_auth_cookie
+  key: "GENERATE_A_LONG_RANDOM_SECRET"
+  expiry_days: 30
