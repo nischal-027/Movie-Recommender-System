@@ -98,7 +98,7 @@ Browse and discover movies by genre.
 ### Movie by Actor, Director and Similarity
 Search by actor or director, and find movies similar to one you like.
 
-![Movie by Actor, Director and Similarity](screenshots/Movie_by_actor_director_similarity.png)
+![Movie by Actor, Director and Similarity](screenshots/Movie_by_actor_director_and_similarity.png)
 
 ## 📂 Project Structure
 
