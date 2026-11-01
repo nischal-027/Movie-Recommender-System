@@ -78,27 +78,27 @@ Screenshots of the application:
 ### Login Page
 Users authenticate before accessing the recommender.
 
-![Login Page](screenshots/login-page.png)
+![Login Page](screenshots/Login_page.png)
 
 ### Home Page
 The main landing page after logging in.
 
-![Home Page](https://raw.githubusercontent.com/nischal-027/Movie-Recommender-System/main/Screenshots/home-page.png)
+![Home Page](screenshots/Home_page.png)
 
 ### Sidebar
 Navigation and search options.
 
-![Sidebar](https://raw.githubusercontent.com/nischal-027/Movie-Recommender-System/main/Screenshots/sidebar.png)
+![Sidebar](screenshots/sidebar.png)
 
 ### Movie by Genre
 Browse and discover movies by genre.
 
-![Movie by Genre](https://raw.githubusercontent.com/nischal-027/Movie-Recommender-System/main/Screenshots/movie-by-genre.png)
+![Movie by Genre](screenshots/Movie_by_genre.png)
 
 ### Movie by Actor, Director and Similarity
 Search by actor or director, and find movies similar to one you like.
 
-![Movie by Actor, Director and Similarity](https://raw.githubusercontent.com/nischal-027/Movie-Recommender-System/main/Screenshots/movie-by-actor-director-similarity.png)
+![Movie by Actor, Director and Similarity](screenshots/Movie_by_actor_director_similarity.png)
 
 ## 📂 Project Structure
 
