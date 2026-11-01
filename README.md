@@ -88,7 +88,7 @@ The main landing page after logging in.
 ### Sidebar
 Navigation and search options.
 
-![Sidebar](screenshots/sidebar.png)
+![Sidebar](screenshots/Sidebar.png)
 
 ### Movie by Genre
 Browse and discover movies by genre.
