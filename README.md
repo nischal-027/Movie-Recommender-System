@@ -78,7 +78,7 @@ Screenshots of the application:
 ### Login Page
 Users authenticate before accessing the recommender.
 
-![Login Page](https://raw.githubusercontent.com/nischal-027/Movie-Recommender-System/main/Screenshots/login-page.png)
+![Login Page](screenshots/login-page.png)
 
 ### Home Page
 The main landing page after logging in.
